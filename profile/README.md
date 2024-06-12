@@ -4,7 +4,7 @@
 ### 💾백엔드-김태은,이은아
 ### 🛡️사이버보안-김명현
 ### 🤝협력(프론트엔드)-김준혁
-<img src="https://github.com/Rainbows-friends/.github/blob/main/logo/team_logo.png" alt="팀 로고" width="500" height="500">
+<img src="https://github.com/Rainbows-friends/.github/blob/main/logo/team_logo.png" alt="팀 로고" width="430" height="430">
 
 ## 연락처
 + [Notion](https://amondbabaro.notion.site/9541285b20654a5cb953ed3881f59551?pvs=4)
