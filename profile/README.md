@@ -4,8 +4,8 @@
 ### 🎨**디자인**-김민솔
 ### 📱프론트엔드-전준연
 ### 💾백엔드-김태은,이은아
-### 🛡️사이버보안-김명현
 ### 🌱백엔드(공부 중)-주여진
+### 🛡️사이버보안-김명현
 ### 🤝협력(프론트엔드)-김준혁
 <img src="https://github.com/Rainbows-friends/.github/blob/main/logo/team_logo.png" alt="팀 로고" width="430" height="430">
 
