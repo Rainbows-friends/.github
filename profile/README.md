@@ -11,3 +11,5 @@
 
 ## 연락처
 + [Notion](https://amondbabaro.notion.site/9541285b20654a5cb953ed3881f59551?pvs=4)
+
+~~리안보우 친구들~~
