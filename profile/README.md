@@ -6,7 +6,7 @@
 ### 💾백엔드-김태은, 이은아
 ### 🌱자라나는 싹-주여진
 ### 🛡️사이버보안-김명현
-### 🤝협력-김준혁(프론트엔드), 이세민(백엔드/ 도움요청)
+### 🤝협력-김준혁(프론트엔드), 이세민(백엔드/ 도움요청), 송재욱(프론트엔드)
 <img src="https://github.com/Rainbows-friends/.github/blob/main/logo/team_logo.png" alt="팀 로고" width="430" height="430">
 
 ## 연락처
